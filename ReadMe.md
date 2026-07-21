@@ -14,4 +14,7 @@ git checkout bn /git checkout bn sourcebranch - SWITCH/CHECKOUT
 #single command to create and switch
 git checkout -b bn /git checkout -b bn sourcebranch
 OR
+
+#new way of creating and switching branch
 git switch -c bn /git switch -c bn sourcebranch
+
