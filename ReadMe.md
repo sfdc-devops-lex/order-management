@@ -19,3 +19,8 @@ OR
 git switch -c bn - create branch from current branch
 git switch -c bn sourcebranch - create new branch from other branch
 
+# How to push to remote
+if repo is existed
+- developers will push the code by authenticating with github cred/PAT
+- while pushing make sure you should push to same branch ex : local master/main --> remote master/main
+- 
