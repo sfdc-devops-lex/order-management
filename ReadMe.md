@@ -16,5 +16,6 @@ git checkout -b bn /git checkout -b bn sourcebranch
 OR
 
 #new way of creating and switching branch
-git switch -c bn /git switch -c bn sourcebranch
+git switch -c bn - create branch from current branch
+git switch -c bn sourcebranch - create new branch from other branch
 
